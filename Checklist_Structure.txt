@@ -1,0 +1,8 @@
+ID 				Item   			Checks  		Acceptance criteria 	 	Result			Environment/Device		Comments
+													        Passed
+								  						Failed
+														Skipped																							     Untested 
+														Blocked
+														
+																			
+
